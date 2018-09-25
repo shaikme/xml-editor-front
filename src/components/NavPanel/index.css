@@ -1,0 +1,7 @@
+.navPanel {
+    height: 100vh;
+}
+
+.navPanel__upload {
+    margin-bottom: 20px;
+}

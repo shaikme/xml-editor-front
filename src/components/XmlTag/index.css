@@ -1,0 +1,26 @@
+.xmlTag {
+    position: relative;
+    padding-left: 25px;
+    line-height: 28px;
+    font-size: 18px;
+}
+
+.xmlTag__tagName {
+    color: #4848d2;
+}
+
+.xmlTag__attrName {
+    color: #137cbd;
+}
+
+.xmlTag__attrValue {
+    color: #d9822b;
+}
+
+.xmlTag__caret {
+    position: absolute;
+    top: 7px;
+    left: 0px;
+    padding: 0;
+    min-height: 16px;
+}
